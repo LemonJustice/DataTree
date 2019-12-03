@@ -1,7 +1,8 @@
 #include "Tree.h"
 
 Tree::Tree() {
-
+	count = 0;
+	root = nullptr;
 }
 
 bool Tree::insert(int newVal) {
