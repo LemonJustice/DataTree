@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef TREE.H
-#define TREE.H
+#ifndef TREE_H
+#define TREE_H
 
 #include <iostream>
 using namespace std;
